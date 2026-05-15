@@ -1,4 +1,5 @@
-# Walmart Sales Analysis
+🛒 Walmart Sales Analysis
+An end-to-end data analysis project covering data cleaning, SQL-based business insights, and an interactive Power BI dashboard — built on a real-world Walmart retail dataset.
 
 **Business Problem:** Across 100 store branches and 6 product categories, which areas are driving revenue — and where are the strategic decisions that are costing the business growth?
 
@@ -71,7 +72,8 @@ The 3 highest-rated categories (Food & Beverages 7.1, Health & Beauty 7.0, Sport
 ## Repository Structure
 
 ```
-├── clean_walmart.csv                  # Cleaned dataset (9,969 records)
+├── walmart.csv                  # Messy data (10,052 records)
+├── clean_walmart.csv                  # Cleaned dataset (9,969 records) using pandas
 ├── walmart_analysis.sql               # SQL queries
 ├── walmart_eda.ipynb                  # Python EDA notebook
 ├── Walmart_Sales_Dashboard.pbix       # Power BI dashboard
