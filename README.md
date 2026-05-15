@@ -62,21 +62,13 @@ The 3 highest-rated categories (Food & Beverages 7.1, Health & Beauty 7.0, Sport
 
 | Tool | Purpose |
 |---|---|
-| Python (Pandas, Matplotlib) | Data cleaning, EDA, trend analysis |
-| SQL | Querying and aggregation across branches and categories |
-| Power BI (DAX, Power Query) | Interactive dashboard with drill-through filters |
+| Python---
 
----
+## How to Run
 
-## Repository Structure
-
----
-
-## How to Open
-
-1. Download `IBM_Marketing___Risk_Analysis_Dashboard.pbix`
-2. Open in Power BI Desktop (free download from Microsoft)
-3. If data doesn't load: Transform Data → Data Source Settings → update path to your local CSV
+**Python:** Open `walmart_eda.ipynb` in Jupyter and run all cells
+**SQL:** Run `walmart_analysis.sql` against any SQL engine with the CSV imported
+**Power BI:** Open `.pbix` in Power BI Desktop — data loads automatically from the CSV
 
 ---
 
@@ -84,4 +76,11 @@ The 3 highest-rated categories (Food & Beverages 7.1, Health & Beauty 7.0, Sport
 
 **Kabeer Khan** — Data Analyst
 📧 kabeerk992@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/kabeer-khan-analyst) | [GitHub](https://github.com/kabeerK992/ibm-marketing-risk-dashboard)
+🔗 [LinkedIn](https://www.linkedin.com/in/kabeer-khan-analyst) | [GitHub](https://github.com/kabeerK992/Walmart-Sales-Analysis) (Pandas, Matplotlib) | Data cleaning, EDA, trend analysis |
+| SQL | Querying and aggregation across branches and categories |
+| Power BI (DAX, Power Query) | Interactive dashboard with drill-through filters |
+
+---
+
+## Repository Structure
+
