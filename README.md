@@ -17,7 +17,6 @@ This project analyzes 9,969 transactions across 5 years (2019–2023) using Pyth
 | Date Range | Jan 2019 – Dec 2023 |
 | Avg Customer Rating | 5.83 / 10 |
 
-![Walmart Sales Dashboard](walmart_dashboard.png)
 
 ---
 
