@@ -69,3 +69,19 @@ The 3 highest-rated categories (Food & Beverages 7.1, Health & Beauty 7.0, Sport
 ---
 
 ## Repository Structure
+
+---
+
+## How to Open
+
+1. Download `IBM_Marketing___Risk_Analysis_Dashboard.pbix`
+2. Open in Power BI Desktop (free download from Microsoft)
+3. If data doesn't load: Transform Data → Data Source Settings → update path to your local CSV
+
+---
+
+## Author
+
+**Kabeer Khan** — Data Analyst
+📧 kabeerk992@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/kabeer-khan-analyst) | [GitHub](https://github.com/kabeerK992/ibm-marketing-risk-dashboard)
