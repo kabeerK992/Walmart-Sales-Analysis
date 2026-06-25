@@ -18,7 +18,7 @@ Across 100 Walmart branches and 6 product categories, revenue dropped 29% after 
 ![Walmart Sales Dashboard](Walmart_Dashboard.png)
 
 > 📥 [View Full Presentation (PDF)](Walmart_Sales_Analysis_presentation.pdf)  
-> 🖼️ [View Dashboard Screenshot (PNG)](Walmart_Dashboard.png)  
+> 🖼️ [View Dashboard Screenshot (PNG)](Walmart%20Dashboard.png)  
 > 📊 [Open Power BI Dashboard (.pbix)](Walmart_Sales_Dashboard.pbix)
 
 ---
